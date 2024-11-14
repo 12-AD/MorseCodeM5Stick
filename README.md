@@ -1,8 +1,8 @@
 ## DEVELOPERS NOTE! CODE MAY NOT WORK PERFECTLY AS I HAVE NOT BEEN ABLE TO TEST YET...
 
-#Feel free to contact me on Discord or Instagram for any questions
-#Discord: @12_ad
-#Instagram: @299_bc
+# Feel free to contact me on Discord or Instagram for any questions
+# Discord: @12_ad
+# Instagram: @299_bc
 
 # 🟢 Morse Code Tool 🟢
 
