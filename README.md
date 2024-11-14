@@ -14,8 +14,8 @@ Welcome to the **Morse Code Tool** repository! This project allows you to input 
 ## 🔥 How It Works
 This tool uses the M5StickC Plus and its built-in buttons to input Morse code:
 1. Press **BtnA** to input Morse code.
-   - **Short press** (dot) → `.` (300Ms)
-   - **Long press** (dash) → `-` (1000Ms)
+   - **Short press** (dot) → `.` (300ms)
+   - **Long press** (dash) → `-` (1000ms)
 2. Wait 3 seconds to register a **space** between letters.
 3. The tool displays the decoded text on the screen as you go.
 4. Press **BtnB** to show the **final decoded message** on a clean screen.
