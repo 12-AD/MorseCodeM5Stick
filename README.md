@@ -2,7 +2,7 @@
 
 Welcome to the **Morse Code Tool** repository! This project allows you to input Morse code using the M5StickC Plus, decode it into text, and display the result on a screen. Whether you're learning Morse code or just need a quick way to encode or decode messages, this tool has you covered! 🚀
 
-![Morse Code Tool](https://via.placeholder.com/600x300.png?text=Morse+Code+Tool) <!-- You can replace this with an actual image of your project -->
+![Morse Code Tool](https:placeholderimage.png) <!-- replace-->
 
 ## Features 🛠️
 - **Morse Code Decoding**: Converts Morse code into text.
