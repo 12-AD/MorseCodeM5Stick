@@ -1,5 +1,9 @@
 ## DEVELOPERS NOTE! CODE MAY NOT WORK PERFECTLY AS I HAVE NOT BEEN ABLE TO TEST YET...
 
+#Feel free to contact me on Discord or Instagram for any questions
+#Discord: @12_ad
+#Instagram: @299_bc
+
 # 🟢 Morse Code Tool 🟢
 
 Welcome to the **Morse Code Tool** repository! This project allows you to input Morse code using the M5StickC Plus, decode it into text, and display the result on a screen. Whether you're learning Morse code or just need a quick way to encode or decode messages, this tool has you covered! 🚀
