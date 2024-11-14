@@ -28,7 +28,7 @@ Here's a simple demo of how it works:
    Press `.-` → Displays: `A`
 
 2. **Wait for Space**:  
-   After waiting 5 seconds, the tool registers a space.
+   After waiting 3 seconds, the tool registers a space.
 
 3. **Input Second Letter**:  
    Press `-...` → Displays: `A B`
