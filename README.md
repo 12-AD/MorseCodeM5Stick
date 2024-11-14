@@ -35,3 +35,20 @@ Here's a simple demo of how it works:
 
 4. **Press BtnB** to show final message:  
    Displays:  
+
+
+
+## 🧑‍💻 Installation
+
+### 1. Install Arduino IDE
+Make sure you have the [Arduino IDE](https://www.arduino.cc/en/software) installed on your computer.
+
+### 2. Install M5StickC Plus Library
+In Arduino IDE, go to **Sketch → Include Library → Manage Libraries** and search for **M5StickC**. Install the **M5StickCPlus** or the  **M5StickCPlus** library.
+
+### 3. Upload Code
+Upload the code provided in the `MorseCode.ino` file to your M5StickC Plus.
+
+```cpp
+#include <M5StickCPlus.h>
+// Your code here...
