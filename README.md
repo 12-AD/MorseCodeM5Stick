@@ -54,7 +54,7 @@ Upload the code provided in the `MorseCode.ino` file to your M5StickC Plus.
 ```cpp
 #include <M5StickCPlus.h>
 // code here...
-
+```
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
